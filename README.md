@@ -37,10 +37,7 @@ Welcome to **Explore Sri Lanka**, a feature-rich web application designed to hel
 ## 🎬 Demo Video
 
 Check out the demo video to see the app in action:
-
-[![Explore Sri Lanka Demo](https://img.youtube.com/vi/your-video-id-here/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id-here)
-
-Replace `your-video-id-here` with the actual video ID from YouTube. For example, if your YouTube URL is `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`.
+https://youtu.be/SaxUwWkZghI
 
 ## 🧑‍💻 Tech Stack
 
@@ -51,7 +48,9 @@ Replace `your-video-id-here` with the actual video ID from YouTube. For example,
 
 ## 🖼️ Screenshots
 
-_Add some images or GIFs showcasing the UI and Google Map integration._
+![image](https://github.com/user-attachments/assets/755a2c52-9d54-47eb-be80-424ad5ff7eca)
+
+
 
 ## 🚀 Getting Started
 
@@ -69,6 +68,6 @@ Make sure you have the following installed:
 To run the project locally, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SendiniDewhara/wanderlanka.git
 cd your-repo-name
 npm install
