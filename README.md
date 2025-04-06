@@ -1,69 +1,74 @@
-# Welcome to your Lovable project
+# 🌴 Explore Sri Lanka - Travel Guide Web Application
 
-## Project info
+Welcome to **Explore Sri Lanka**, a feature-rich web application designed to help both **local** and **foreign travelers** discover, explore, and plan their trips around Sri Lanka 🇱🇰. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Google Maps**, this app is your one-stop destination guide.
 
-**URL**: https://lovable.dev/projects/ee6a24ae-a971-46dd-888c-d5ef29754c64
+## 🌟 Features
 
-## How can I edit this code?
+- 🗺️ **Interactive Google Map Integration**  
+  View destinations, landmarks, accommodations, and routes on an interactive Google Map, allowing for seamless trip planning and navigation.
 
-There are several ways of editing your application.
+- 🏞️ **Popular Travel Destinations**  
+  Explore beautiful tourist spots across Sri Lanka, including beaches, mountains, and heritage sites.
 
-**Use Lovable**
+- 🏛️ **Heritages & Historical Sites**  
+  Learn about Sri Lanka’s rich cultural and historical landmarks and their significance.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ee6a24ae-a971-46dd-888c-d5ef29754c64) and start prompting.
+- 🎉 **Cultural Festivals**  
+  Discover Sri Lanka's festivals, traditions, and dates.
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🍛 **Sri Lankan Cuisine**  
+  Find local dishes and where to taste them in Sri Lanka.
 
-**Use your preferred IDE**
+- 🧗 **Adventure & Fun Activities**  
+  Plan your outdoor activities such as hiking, surfing, and exploring wildlife.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 📝 **Trip Planning**  
+  Efficiently plan your itinerary by viewing popular destinations and nearby accommodations.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🛌 **Accommodation Listings**  
+  Find hotels and stays near key tourist destinations.
 
-Follow these steps:
+- 📌 **Travel Guidelines & Safety Tips**  
+  Stay updated on the latest travel advisories and safety tips for your journey.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🚨 **Emergency Contacts**  
+  Access important emergency numbers for travelers in Sri Lanka.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🎬 Demo Video
 
-# Step 3: Install the necessary dependencies.
-npm i
+Check out the demo video to see the app in action:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+[![Explore Sri Lanka Demo](https://img.youtube.com/vi/your-video-id-here/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id-here)
 
-**Edit a file directly in GitHub**
+Replace `your-video-id-here` with the actual video ID from YouTube. For example, if your YouTube URL is `https://www.youtube.com/watch?v=dQw4w9WgXcQ`, the ID is `dQw4w9WgXcQ`.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🧑‍💻 Tech Stack
 
-**Use GitHub Codespaces**
+- **Frontend**: React + TypeScript  
+- **Styling**: Tailwind CSS  
+- **Maps**: Google Maps API  
+- **Deployment**: *(Add deployment platform like Netlify, Vercel, etc.)*
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🖼️ Screenshots
 
-## What technologies are used for this project?
+_Add some images or GIFs showcasing the UI and Google Map integration._
 
-This project is built with .
+## 🚀 Getting Started
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+To get started with the project, follow the instructions below:
 
-## How can I deploy this project?
+### Prerequisites
 
-Simply open [Lovable](https://lovable.dev/projects/ee6a24ae-a971-46dd-888c-d5ef29754c64) and click on Share -> Publish.
+Make sure you have the following installed:
 
-## I want to use a custom domain - is that possible?
+- `Node.js`  
+- `npm` or `yarn`
 
-We don't support custom domains (yet). If you want to deploy your project under 
+### Installation
+
+To run the project locally, clone this repository and install the dependencies:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
