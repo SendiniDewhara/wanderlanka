@@ -44,7 +44,7 @@ https://youtu.be/SaxUwWkZghI
 - **Frontend**: React + TypeScript  
 - **Styling**: Tailwind CSS  
 - **Maps**: Google Maps API  
-- **Deployment**: *(Add deployment platform like Netlify, Vercel, etc.)*
+- **Deployment**: *(wish to deploy using platform like Netlify, Vercel, etc.)*
 
 ## 🖼️ Screenshots
 
