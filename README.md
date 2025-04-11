@@ -69,5 +69,5 @@ To run the project locally, clone this repository and install the dependencies:
 
 ```bash
 git clone https://github.com/SendiniDewhara/wanderlanka.git
-cd your-repo-name
+cd wanderlanka
 npm install
