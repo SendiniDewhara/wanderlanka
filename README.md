@@ -1,6 +1,6 @@
-# 🌴 Explore Sri Lanka - Travel Guide Web Application
+# 🌴 Wander Lanka  - Travel Guide Web Application
 
-Welcome to **Explore Sri Lanka**, a feature-rich web application designed to help both **local** and **foreign travelers** discover, explore, and plan their trips around Sri Lanka 🇱🇰. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Google Maps**, this app is your one-stop destination guide.
+Welcome to **Wander Lanka**, a feature-rich web application designed to help both **local** and **foreign travelers** discover, explore, and plan their trips around Sri Lanka 🇱🇰. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Google Maps**, this app is your one-stop destination guide.
 
 ## 🌟 Features
 
