@@ -24,7 +24,7 @@ export interface Destination {
 export const fetchDestinations = async (): Promise<Destination[]> => {
   try {
     console.log('Attempting to fetch destinations from API...');
-    // Replace with your actual API endpoint
+    // API endpoint
     const response = await fetch('https://api.example.com/destinations', {
       // Adding timeout and credentials to help with common API issues
       method: 'GET',
